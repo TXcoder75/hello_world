@@ -1,0 +1,4 @@
+#  This is a raw test to see how it works.
+print "Hello World!  What is your name?"
+raw input (name)
+print "Hello," (name)
